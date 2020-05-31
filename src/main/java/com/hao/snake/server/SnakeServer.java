@@ -52,7 +52,7 @@ public class SnakeServer {
 			}
 		}
 		catch (Exception e) {
-			System.out.println("服务器异常: " + e.getMessage());
+			System.out.println("Server exception: " + e.getMessage());
 		}
 	}
 	
@@ -135,7 +135,7 @@ public class SnakeServer {
 					}
 					catch (Exception e) {
 						socket = null;
-						System.out.println("服务端 finally 异常:" + e.getMessage());
+						System.out.println("Server finally abnormal:" + e.getMessage());
 					}
 				}
 			}
