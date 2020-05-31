@@ -1,11 +1,10 @@
 # SnakeIO
-蛇蛇大作战，联网贪吃蛇
 
-仿蛇蛇大作战，目前已实现大部分功能
 
-单机版启动类 App
+Snake fight, Snake networking
 
-联机版需先启动服务端（SnakeServer）然后再启动客户端（SnakeClient）
+Battle like a snake, most functions have been realized
 
-客户端需要配置服务端ip地址
+Stand-alone version of the startup app
 
+The online version needs to start the server (SnakeServer) first and then start the client (SnakeClient)
